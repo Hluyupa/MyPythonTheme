@@ -1,0 +1,28 @@
+{
+  "name": "hluyupa-theme",
+  "displayName": "Hluyupa Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "Hluyupa",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "hluyupa",
+    "python",
+    "theme",
+    "hluyupa python theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hluyupa Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hluyupa Theme-color-theme.json"
+      }
+    ]
+  }
+}
